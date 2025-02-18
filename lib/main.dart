@@ -29,7 +29,7 @@ class LabClass05 extends StatelessWidget {
               children: List.generate(
                 100,
                 (index) => Icon(
-                  Iconsax.airplane4,
+                  Iconsax.add_circle,
                   size: index.toDouble(), 
                   color: const Color.fromARGB(255, 21, 0, 255),
                 ),
